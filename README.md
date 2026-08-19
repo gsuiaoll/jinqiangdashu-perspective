@@ -2,7 +2,7 @@
 
 > "品味是流量的敌人。"
 
-基于金枪大叔（岳华平）《借势》《主角》《品味是流量的敌人》三本书及数十条抖音爆款拆解的深度调研，蒸馏出的短视频文案顾问 Skill。
+基于金枪大叔（岳华平）《借势》《主角》《品味是流量的敌人》三本书及 156 条抖音口播脚本一手语料的深度调研，蒸馏出的短视频文案顾问 Skill。
 
 ## 它是干嘛的
 
@@ -38,7 +38,7 @@ jinqiangdashu-perspective/
 └── references/
     ├── research/
     │   ├── 00-research-summary.md            # 调研语料库（十借框架、145条心法目录、金句库、方法论、完整128条索引、来源）
-    │   └── 01-koubo-dna.md                   # 156条口播脚本一手提炼（口播骨架、11类钩子句式、互动钩子、自曝素材、选题库）
+    │   └── 01-koubo-dna.md                   # 156条口播脚本一手提炼（口播骨架、15类钩子句式、金句原句库、12套深度方法论、自曝素材、选题库）
     └── sources/
         └── books/                            # 三本书完整原文（借势/主角/品味是流量的敌人）
 ```
@@ -55,7 +55,7 @@ git clone https://github.com/gsuiaoll/jinqiangdashu-perspective.git ~/.claude/sk
 
 ## 调研信息
 
-- 调研时间：2026-08-18
+- 调研时间：2026-08-19
 - 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 方法论蒸馏
 
 ## 许可
