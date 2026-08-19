@@ -37,7 +37,8 @@ jinqiangdashu-perspective/
 ├── README.md                                 # 本文件
 └── references/
     ├── research/
-    │   └── 00-research-summary.md            # 调研语料库（十借框架、145条心法目录、金句库、方法论、完整128条索引、来源）
+    │   ├── 00-research-summary.md            # 调研语料库（十借框架、145条心法目录、金句库、方法论、完整128条索引、来源）
+    │   └── 01-koubo-dna.md                   # 156条口播脚本一手提炼（口播骨架、11类钩子句式、互动钩子、自曝素材、选题库）
     └── sources/
         └── books/                            # 三本书完整原文（借势/主角/品味是流量的敌人）
 ```
