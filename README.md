@@ -44,7 +44,13 @@ jinqiangdashu-perspective/
 
 ## 安装
 
-已手动安装到 `~/.claude/skills/jinqiangdashu-perspective/`。重启/刷新后，用上面的触发词即可调用。
+**从 GitHub 克隆（私有仓库，需登录 gsuiaoll 账号）：**
+
+```bash
+git clone https://github.com/gsuiaoll/jinqiangdashu-perspective.git ~/.claude/skills/jinqiangdashu-perspective
+```
+
+或手动把本目录放到 `~/.claude/skills/jinqiangdashu-perspective/`，重启/刷新后用上面的触发词调用。
 
 ## 调研信息
 
